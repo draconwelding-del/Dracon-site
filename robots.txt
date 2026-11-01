@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://draconk2.com/sitemap.xml
