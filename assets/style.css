@@ -44,3 +44,6 @@ footer.site{background:var(--ink);color:#ddd;padding:36px 0 18px}footer a{color:
 .cards.prod .d{font-size:.95rem}.models{padding-left:1.1rem;margin:.6rem 0 0}.models li{margin:.15rem 0}
 .inds{display:inline-block;background:#8b0000;color:#fff;font-size:.75rem;font-weight:600;letter-spacing:.05em;text-transform:uppercase;padding:.2rem .55rem;border-radius:4px;margin:0 0 .8rem}
 .catbtn{margin:10px 0 0}.catbtn .btn{padding:8px 14px;font-size:.92rem}
+
+.hdr .k2{margin-left:14px;margin-right:auto;display:flex;align-items:center}.hdr .k2 img{height:48px;width:auto;background:#f0f4f2;border-radius:6px;padding:2px 4px}@media(max-width:820px){.hdr .k2 img{height:38px}}
+.brand span{white-space:nowrap}nav a{white-space:nowrap;margin-left:16px}@media(max-width:1180px){.menu{display:block}nav{display:none;position:absolute;top:76px;left:0;right:0;background:var(--ink);padding:10px 20px}nav.open{display:block}nav a{display:block;margin:0;padding:10px 0}}
